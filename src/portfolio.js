@@ -8,10 +8,11 @@ const about = {
   role: 'Full Stack Developer',
   description:
     'After many years in sales and customer service I have embarked on recent career change to pivot toward web and application development! Here you will find a few of my recent works as part of the 24 week UW Coding Bootcamp.',
-  resume: '',
+  resume: 'src/documents/JHeckelResume.pdf',
   social: {
     linkedin: 'https://linkedin.com/in/jalen-heckel-20327b169',
     github: 'https://github.com/jheckel-dev',
+    twitter: 'https://twitter.com/Velcro_Man'
   },
 }
 
