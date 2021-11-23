@@ -3,6 +3,7 @@ import LinkedInIcon from '@material-ui/icons/LinkedIn'
 import { about } from '../../portfolio'
 import './About.css'
 
+
 const About = () => {
   const { name, role, description, resume, social } = about
 

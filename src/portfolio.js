@@ -1,3 +1,5 @@
+import './documents/JHeckelResume.pdf'
+
 const header = {
   homepage: 'https://jheckel-dev.github.io/cautious-fortnight/',
   title: 'JH.',
@@ -8,7 +10,7 @@ const about = {
   role: 'Full Stack Developer',
   description:
     'After many years in sales and customer service I have embarked on recent career change to pivot toward web and application development! Here you will find a few of my recent works as part of the 24 week UW Coding Bootcamp.',
-  resume: 'src/documents/JHeckelResume.pdf',
+  resume: 'https://drive.google.com/file/d/1ro_udJCuXfk7neSWzQ2UWa01I2xkqdlK/view?usp=sharing',
   social: {
     linkedin: 'https://linkedin.com/in/jalen-heckel-20327b169',
     github: 'https://github.com/jheckel-dev',
