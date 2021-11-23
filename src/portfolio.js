@@ -10,7 +10,7 @@ const about = {
     'After many years in sales and customer service I have embarked on recent career change to pivot toward web and application development! Here you will find a few of my recent works as part of the 24 week UW Coding Bootcamp.',
   resume: '',
   social: {
-    linkedin: 'linkedin.com/in/jalen-heckel-20327b169',
+    linkedin: 'https://linkedin.com/in/jalen-heckel-20327b169',
     github: 'https://github.com/jheckel-dev',
   },
 }
@@ -50,8 +50,14 @@ const skills = [
   'React',
   'SASS',
   'Material UI',
-  'Git',
+  'GitHub',
   'Jest',
+  'APIs',
+  'NodeJS',
+  'Express',
+  'SQL',
+  'NoSQL',
+  'MERN'
 ]
 
 const contact = {
