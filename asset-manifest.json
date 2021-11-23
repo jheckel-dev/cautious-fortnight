@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/cautious-fortnight/static/css/main.d51a6bc8.chunk.css",
+    "main.js": "/cautious-fortnight/static/js/main.67c4fb0f.chunk.js",
+    "main.js.map": "/cautious-fortnight/static/js/main.67c4fb0f.chunk.js.map",
+    "runtime-main.js": "/cautious-fortnight/static/js/runtime-main.6bdad2bb.js",
+    "runtime-main.js.map": "/cautious-fortnight/static/js/runtime-main.6bdad2bb.js.map",
+    "static/js/2.5a349023.chunk.js": "/cautious-fortnight/static/js/2.5a349023.chunk.js",
+    "static/js/2.5a349023.chunk.js.map": "/cautious-fortnight/static/js/2.5a349023.chunk.js.map",
+    "index.html": "/cautious-fortnight/index.html",
+    "static/css/main.d51a6bc8.chunk.css.map": "/cautious-fortnight/static/css/main.d51a6bc8.chunk.css.map",
+    "static/js/2.5a349023.chunk.js.LICENSE.txt": "/cautious-fortnight/static/js/2.5a349023.chunk.js.LICENSE.txt",
+    "static/media/JHeckelResume.32a7525c.pdf": "/cautious-fortnight/static/media/JHeckelResume.32a7525c.pdf"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.6bdad2bb.js",
+    "static/js/2.5a349023.chunk.js",
+    "static/css/main.d51a6bc8.chunk.css",
+    "static/js/main.67c4fb0f.chunk.js"
+  ]
+}
