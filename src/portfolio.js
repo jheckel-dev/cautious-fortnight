@@ -1,6 +1,6 @@
 const header = {
   homepage: 'https://jheckel-dev.github.io/cautious-fortnight/',
-  title: 'JS.',
+  title: 'JH.',
 }
 
 const about = {
